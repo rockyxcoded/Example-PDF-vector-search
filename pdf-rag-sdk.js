@@ -72,7 +72,7 @@ export default class PDFRagSDK {
       } catch (err) {
         if (attempt === retries - 1) throw err;
         const waitTime = delay * 2 ** attempt;
-        console.warn(`⚠️ Retry attempt ${attempt + 1} after error: ${err.message}. Waiting ${waitTime}ms...`);
+        console.warn(`Retry attempt ${attempt + 1} after error: ${err.message}. Waiting ${waitTime}ms...`);
         await new Promise(res => setTimeout(res, waitTime));
       }
     }
@@ -100,7 +100,7 @@ export default class PDFRagSDK {
         WITH (lists = 100);
       `);
 
-      console.log(' Database initialized');
+      console.log('Database initialized');
     } catch (error) {
       console.error(' Database init error:', error);
       throw error;
@@ -148,7 +148,7 @@ export default class PDFRagSDK {
         insertedIds.push(result.rows[0].id);
       }
 
-      console.log(` Document "${filename}" added with ${insertedIds.length} chunks.`);
+      console.log(`Document "${filename}" added with ${insertedIds.length} chunks.`);
       return insertedIds;
     } catch (error) {
       console.error(' Add document error:', error);
@@ -258,16 +258,16 @@ export default class PDFRagSDK {
         throw new Error('Document not found');
       }
 
-      console.log(` Deleted document "${filename}" with ${result.rowCount} chunks.`);
+      console.log(`Deleted document "${filename}" with ${result.rowCount} chunks.`);
       return filename;
     } catch (error) {
-      console.error(' Delete error:', error);
+      console.error('Delete error:', error);
       throw error;
     }
   }
 
   async close() {
     await this.db.end();
-    console.log(' Database connection closed');
+    console.log('Database connection closed');
   }
 }

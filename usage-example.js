@@ -42,7 +42,7 @@ async function main() {
     const docs = await rag.listDocuments();
     docs.forEach(doc => {
       console.log(`- ${doc.filename} (ID: ${doc.id})`);
-      console.log(`  Preview: ${doc.preview}...`);
+      console.log(`Preview: ${doc.preview}...`);
     });
     
     if (docs.length > 0) {
