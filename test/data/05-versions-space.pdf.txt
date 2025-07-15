@@ -1,0 +1,97 @@
+
+
+ 
+MUHAMMED OJO 
++2348106806779 | ojomuhammad@gmail.com 
+LinkedIn: https://www.linkedin.com/in/ojo-muhammed-877422100/ 
+GitHub: https://github.com/Muhammedojo 
+Prof essi o nal   Summ ary 
+Experienced Flutter Mobile App Engineer with over 4 years of expertise in building 
+responsive, user-focused mobile applications. I am committed to delivering high-quality, 
+seamless solutions with a keen eye for detail and a passion for innovation. 
+Exp ert i se 
+Flutter & Dart, Cross-Platform Mobile Development, State Management (Cubit, BLOC), 
+UI/UX Design (Material Design, Cupertino Widgets), RESTful APIs Integration, Firebase 
+Services (Firestore, Authentication, Cloud Messaging), Offline Functionality (SQLite, Isar, 
+SharedPreferences), CI/CD Pipelines (GitHub Actions, Bitbucket Pipelines, Codemagic), Git 
+and Version Control, Unit, Widget, and Integration Testing, App Deployment (Google Play 
+Store, Apple App Store). 
+Work Ex peri en ce 
+Mobi l e  A pp  E ngi n eer 
+AFEX, Abuja 
+ November 2021 - Present 
+• Spearheaded the redevelopment of the company’s primary field operations app, 
+ensuring scalability and reliability for use in Nigeria, Kenya, Uganda, and Ivory 
+Coast. 
+• Designed the application with offline functionality to support users in remote areas 
+without internet access, ensuring seamless operations. 
+• Built a robust system that handles hundreds of users daily, streamlining field 
+processes across multiple regions. 
+• Continuously maintain and enhance the application, incorporating new features 
+and business requirements to align with evolving operational needs. 
+PHP  Dev el o per 
+Freelance 
+ July 2019 - September 2021 
+• Developed dynamic websites and web applications using PHP and the Laravel 
+framework, delivering tailored solutions to meet client and organizational needs. 
+• Collaborated with cross-functional teams to ensure project objectives were met 
+within deadlines and budget. 
+
+ 
+2 
+Edu cat i o n 
+Bachelor of Technology (Hons) in Computer Science 
+Ladoke Akintola University of Technology, June 2021 
+ 
+Certificates 
+• Cyber Threat Management 
+CISCO 
+Issued December 2024 
+• Diploma Certificate in Advance Software Development 
+BoldLinks Technology Solution 
+Issued November 2019 
+• Google Africa Scholarship Front End Course 
+ALC powered by Google 
+Issued August, 2018 
+ 
+Ski l l s 
+• Co m m uni c a t i o n: C o l l a b o r a t e d   c l o s e l y   w i t h  d e s i g n e r s ,   b a c k e n d  
+e n g i n e e r s ,   a n d   p r o j e c t   m a n a g e r s   t o   d e l i v e r   h i g h-q u a l i t y   s o l u t i o n s . 
+• Technical Skill:  Proficient in Flutter and Dart for building cross-platform mobile apps, 
+with strong expertise in state management (BLOC, Cubit), API integration, Firebase 
+services, and third-party packages; experienced in testing (unit, widget, 
+integration), CI/CD pipelines (Codemagic), and adhering to UI/UX principles for 
+intuitive, user-friendly interfaces. 
+• Attention to Detail: Exceptional attention to detail, ensuring every aspect of the 
+app, from UI to functionality, meets the highest standards. 
+ 
+Projects 
+• WorkBench by AFEX: 
+https://play.google.com/store/apps/details?id=com.afexnigeria.workbench&hl=en 
+ 
+Developed an inventory management app for logging, tracking, dispatching 
+inventory, and printing receipts. It also supports cash receipt handling and multi-
+language functionality for enhanced accessibility and traceability. 
+• AfricaExchange: 
+https://play.google.com/store/apps/details?id=com.afex.app&hl=en 
+https://apps.apple.com/ng/app/africa-exchange/id6456486368 
+An online platform for buying, trading, and investing in commodities, offering users 
+a seamless experience for both transactions and investments. 
+• Cudie: 
+https://apps.apple.com/ng/app/cudie/id6454275992 
+
+ 
+3 
+https://play.google.com/store/apps/details?id=com.afex.cudie&hl=en 
+ 
+Cudie stands as an innovative wallet system meticulously crafted to address the 
+prevalent gaps in payment and settlement mechanisms. 
+ 
+• CrestStudy: 
+https://play.google.com/store/apps/details?id=com.studycrest.mobile&hl=en 
+ 
+CrestStudy is an all-in-one study tool designed to help you excel academically by 
+offering personalized study schedules, progress tracking, and motivation tools. 
+Whether you're preparing for exams or just trying to stay on top of your 
+coursework. 
+ 

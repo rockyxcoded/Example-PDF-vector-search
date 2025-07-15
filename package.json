@@ -1,0 +1,20 @@
+{
+  "name": "pdf-vector-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node usage-example.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.1.0",
+    "openai": "^5.8.3",
+    "pdf-parse": "^1.1.1",
+    "pg": "^8.16.3"
+  }
+}
